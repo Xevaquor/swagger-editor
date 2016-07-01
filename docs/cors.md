@@ -48,3 +48,6 @@ For example in OSX you need to run the following command:
 ```
 /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --disable-web-security --user-data-dir
 ```
+
+##### Firefox
+You can use extensionL [https://addons.mozilla.org/en-US/firefox/addon/cors-everywhere/]
